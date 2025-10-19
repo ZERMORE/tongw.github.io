@@ -1,6 +1,6 @@
 # Welcome to Tongw's blog🌟
 
-Created with Astro, theme ThoughtLite.
+Created with Astro and theme ThoughtLite.
 <!-- <div align="center">
     <p>
         <img alt="ThoughtLite Light Mode Preview" src=".github/assets/preview-light.webp">
