@@ -1,6 +1,7 @@
-# ThoughtLite
+# Welcome to Tongw's blog🌟
 
-<div align="center">
+Created with Astro, theme ThoughtLite.
+<!-- <div align="center">
     <p>
         <img alt="ThoughtLite Light Mode Preview" src=".github/assets/preview-light.webp">
         <img alt="ThoughtLite Dark Mode Preview" src=".github/assets/preview-dark.webp">
@@ -130,4 +131,4 @@ All kinds of contributions are welcome and appreciated!
 
 ## 📜 License
 
-This project is licensed under [GPLv3](LICENSE), allowing free modification and distribution, but the original copyright notice must be retained.
+This project is licensed under [GPLv3](LICENSE), allowing free modification and distribution, but the original copyright notice must be retained. -->

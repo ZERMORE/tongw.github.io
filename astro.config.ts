@@ -36,7 +36,8 @@ import reading from "./src/utils/remark/reading";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://thought-lite.vercel.app",
+  //site: "https://thought-lite.vercel.app",
+  site: "https://tongw.github.io",
   trailingSlash: "never",
   i18n: {
     locales: ["en", "zh-cn", "ja"],
