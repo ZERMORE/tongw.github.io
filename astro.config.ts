@@ -38,7 +38,7 @@ import reading from "./src/utils/remark/reading";
 export default defineConfig({
   //site: "https://thought-lite.vercel.app",
   site: "https://tongw.github.io",
-  base: "/tongw.github.io", 
+  // base 路径对于 username.github.io 仓库不需要配置
   trailingSlash: "never",
   i18n: {
     locales: ["en", "zh-cn", "ja"],
