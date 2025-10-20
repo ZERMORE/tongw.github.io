@@ -37,7 +37,7 @@ import reading from "./src/utils/remark/reading";
 // https://astro.build/config
 export default defineConfig({
   //site: "https://thought-lite.vercel.app",
-  site: "https://tongw.github.io",
+  site: "https://zermore.github.io/tongw.github.io",
   // base 路径对于 username.github.io 仓库不需要配置
   trailingSlash: "never",
   i18n: {
