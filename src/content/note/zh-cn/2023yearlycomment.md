@@ -1,9 +1,9 @@
 ---
-title:关于我的2023与哥伦比亚号
-timestamp： 2025-10-20 00:00:00+00:00
-tags:[年终总结]
-toc:true
-top:1
+title: 关于我的2023与哥伦比亚号
+timestamp: 2025-10-20 00:00:00+00:00
+tags: [年终总结]
+toc: true
+top: 1
 ---
 
 
